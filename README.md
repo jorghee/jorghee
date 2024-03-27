@@ -15,7 +15,9 @@
 
   <br>
   <p aligh="left">
-    <img alt="GIF" src="gif/powerup.gif" width="20px"> I'm currently learning <br>
+    <samp><b>
+      <img alt="GIF" src="gif/Developer.gif" width="20px"> I'm currently learning <br>
+    </b></samp>
     <a href="https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html" target="_blank">
       <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40">
     </a>
@@ -36,7 +38,10 @@
     </a>
   </p>
   <p aligh="left">
-    <img alt="GIF" src="gif/gandalf_parrot.gif" width="20px"> Used Tools <br>
+    <samp><b>
+      <img alt="GIF" src="gif/Developer.gif" width="20px"> I'm currently learning <br>
+    </b></samp>
+    <img alt="GIF" src="gif/powerup.gif" width="20px"> Used Tools <br>
     <a href="https://maven.apache.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="40" height="40">
     </a>
