@@ -50,7 +50,7 @@ public String build() {
   <br>
   <p>
     <samp><b>
-      <img alt="GIF" src="gif/powerup.gif" width="40px"> I'm currently learning <br>
+      <img alt="GIF" src="gif/powerup.gif" width="25px"> I'm currently learning <br>
     </b></samp>
     <br>
     <a href="https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html" target="_blank">
@@ -71,7 +71,7 @@ public String build() {
   </p>
   <p>
     <samp><b>
-      <img alt="GIF" src="gif/Rocket.gif" width="40px"> Used Tools <br>
+      <img alt="GIF" src="gif/Rocket.gif" width="25px"> Used Tools <br>
     </b></samp>
     <br>
     <a href="https://maven.apache.org/" target="_blank">
