@@ -34,7 +34,6 @@ public String build() {
   return phrase.toString();
 }
 ```
-<br>
 <p>
   <samp>
     <b>
@@ -45,12 +44,11 @@ public String build() {
   </samp>
 </p>
 
-<br>
 <div align="left">
   <br>
   <p>
     <samp><b>
-      <img alt="GIF" src="gif/powerup.gif" width="25px"> I'm currently learning <br>
+      <img alt="GIF" src="gif/powerup.gif" width="22px"> I'm currently learning <br>
     </b></samp>
     <br>
     <a href="https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html" target="_blank">
@@ -71,7 +69,7 @@ public String build() {
   </p>
   <p>
     <samp><b>
-      <img alt="GIF" src="gif/Rocket.gif" width="25px"> Used Tools <br>
+      <img alt="GIF" src="gif/Rocket.gif" width="22px"> Used Tools <br>
     </b></samp>
     <br>
     <a href="https://maven.apache.org/" target="_blank">
