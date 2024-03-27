@@ -12,12 +12,47 @@
       </b>
     </samp>
   </p>
+</div>
 
+
+<br>
+<p>
+  <samp>
+    <b>I take care that my code is readable. For example:</b>
+  </samp>
+</p>
+
+```java
+public String build() {
+  StringBuffer phrase  = new StringBuffer();
+  List<String> words = ImmutableList.of("1", "Clean", "24", "7", "code", "14");
+
+  words.stream()
+       .filter(this::isValidString)
+       .forEach(phrase::append);
+
+  return phrase.toString();
+}
+```
+<br>
+<p>
+  <samp>
+    <b>
+      What elegance! Readable code, a pleasure for the mind.
+      <br>
+      Functional programming>>
+    </b>
+  </samp>
+</p>
+
+<br>
+<div align="left">
   <br>
-  <p aligh="left">
+  <p>
     <samp><b>
-      <img alt="GIF" src="gif/Developer.gif" width="20px"> I'm currently learning <br>
+      <img alt="GIF" src="gif/powerup.gif" width="40px"> I'm currently learning <br>
     </b></samp>
+    <br>
     <a href="https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html" target="_blank">
       <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40">
     </a>
@@ -27,9 +62,6 @@
     <a href="https://isocpp.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40">
     </a>
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40">
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40">
     </a>
@@ -37,11 +69,11 @@
       <img src="https://skillicons.dev/icons?i=postgres" alt="postgreSQL" width="40" height="40">
     </a>
   </p>
-  <p aligh="left">
+  <p>
     <samp><b>
-      <img alt="GIF" src="gif/Developer.gif" width="20px"> I'm currently learning <br>
+      <img alt="GIF" src="gif/Rocket.gif" width="40px"> Used Tools <br>
     </b></samp>
-    <img alt="GIF" src="gif/powerup.gif" width="20px"> Used Tools <br>
+    <br>
     <a href="https://maven.apache.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="40" height="40">
     </a>
