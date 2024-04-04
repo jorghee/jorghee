@@ -72,9 +72,6 @@ public String build() {
       <img alt="GIF" src="gif/Rocket.gif" width="22px"> Used Tools <br>
     </b></samp>
     <br>
-    <a href="https://maven.apache.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="40" height="40">
-    </a>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40">
     </a>
