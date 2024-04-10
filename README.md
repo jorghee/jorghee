@@ -1,12 +1,12 @@
 <div align="justify">
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="GIF" width="40px" style="float: right; margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="GIF" width="60px"> <br>
     <samp>
       <b>
         Hello There <br>
         I'm Jorghee, a Student, sometimes recursion is like creating a black hole.
       </b>
-      <br> <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Building+on+the+foundations."> <br>
+      <br> <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=18&color=6791c9&center=true&width=410&height=45&lines=Building+on+the+foundations"> <br>
       <b>
         ~ Jorge Luis Mamani Huarsaya ~
       </b>
