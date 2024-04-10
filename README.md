@@ -1,6 +1,6 @@
 <div align="justify">
-
   <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="linuxero" style="float: left; margin-right: 10px;">
     <samp>
       <b>
         Hello There <br>
@@ -14,18 +14,18 @@
   </p>
 </div>
 
-
 <br>
+
 <p>
   <samp>
-    <b>I take care that my code is readable. For example:</b>
+    <b>I take care that my code is readable</b>
   </samp>
 </p>
 
 ```java
 public String build() {
   StringBuffer phrase  = new StringBuffer();
-  List<String> words = ImmutableList.of("1", "Clean", "24", "7", "code", "14");
+  List<String> words = ImmutableList.of("1", "Clean", "24", "7", "code", "14", " ");
 
   words.stream()
        .filter(this::isValidString)
@@ -37,15 +37,15 @@ public String build() {
 <p>
   <samp>
     <b>
-      What elegance! Readable code, a pleasure for the mind.
-      <br>
+      What elegance! Readable code, a pleasure for the mind. <br>
       Functional programming>>
     </b>
   </samp>
 </p>
 
+<br>
+
 <div align="left">
-  <br>
   <p>
     <samp><b>
       <img alt="GIF" src="gif/powerup.gif" width="22px"> I'm currently learning <br>
