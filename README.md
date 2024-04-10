@@ -2,10 +2,8 @@
   <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="GIF" width="60px"> <br>
     <samp>
-      <b>
         Hello There <br>
         I'm Jorghee, a Student, sometimes recursion is like creating a black hole.
-      </b>
       <br> <img src="https://readme-typing-svg.herokuapp.com?font=Aubrey&size=30&color=537288&duration=3000&pause=500&center=true&width=410&height=45&lines=Building+on+the+foundations"> <br>
       <b>
         ~ Jorge Luis Mamani Huarsaya ~
