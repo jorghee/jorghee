@@ -1,6 +1,6 @@
 <div align="justify">
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="linuxero" style="float: left; margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="GIF" width="40px" style="float: right; margin-right: 10px;">
     <samp>
       <b>
         Hello There <br>
