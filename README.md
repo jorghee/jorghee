@@ -50,14 +50,14 @@ public String build() {
     <a href="https://spring.io/" target="_blank">
       <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40">
     </a>
-    <a href="https://isocpp.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40">
+    <a href="https://en.cppreference.com/w/c" target="_blank">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40">
+    <a href="https://www.python.org/doc/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40">
     </a>
-    <a href="https://www.postgresql.org/docs/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="postgreSQL" width="40" height="40">
+    <a href="https://www.typescriptlang.org/docs/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40">
     </a>
   </p>
   <p>
@@ -74,17 +74,21 @@ public String build() {
     <a href="https://neovim.io/" target="_blank">
       <img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim" width="40" height="40">
     </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ Idea" width="40" height="40">
-    </a>
     <a href="https://www.latex-project.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40">
     </a>
     <a href="https://archlinux.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" width="40" height="40">
     </a>
-    <a href="https://maven.apache.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="40" height="40">
+    <a href="https://docs.gradle.org/current/userguide/userguide.html" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="40" height="40">
     </a>
   </p>
 </div>
+
+<br>
+<samp><b>
+  <img alt="GIF" src="gif/parrot_music.gif" width="22px"> Now Playing <br>
+</b></samp>
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/4vYOy1kpANHzTYyrAvCSJS?si=0dfba6afb6d64fed)
