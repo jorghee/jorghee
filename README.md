@@ -85,10 +85,3 @@ public String build() {
     </a>
   </p>
 </div>
-
-<br>
-<samp><b>
-  <img alt="GIF" src="gif/parrot_music.gif" width="22px"> Now Playing <br>
-</b></samp>
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/4vYOy1kpANHzTYyrAvCSJS?si=0dfba6afb6d64fed)
