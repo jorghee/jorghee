@@ -10,12 +10,12 @@ Hello There<br>I'm Jorghee, a Student, sometimes recursion is like creating a bl
 I prefer to work behind the scenes, far from graphical interfaces<br>
 I take care that my code is readable
 
-<samp>**I'm currently learning**</samp><br><br>
+<samp>**I'm currently learning**</samp><br>
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/cpp)
 
-<samp>**Used Tools**</samp><br><br>
+<samp>**Used Tools**</samp><br>
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![NeoVim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
@@ -23,7 +23,7 @@ I take care that my code is readable
 [![Arch Linux](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://docs.gradle.org/current/userguide/userguide.html)
 
-<samp>**Songs**</samp><br><br>
+<samp>**Songs**</samp><br>
 [![Current Spotify Song](https://jorghee.pythonanywhere.com?theme=dark)](https://jorghee.pythonanywhere.com/link)
 
 ---
