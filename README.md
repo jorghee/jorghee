@@ -1,87 +1,28 @@
-<div align="justify">
-  <p align="center">
-    <samp>
-      Hello There<br>
-      <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="GIF" width="100px"><br>
-      I'm Jorghee, a Student, sometimes recursion is like creating a black hole.<br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Aubrey&size=30&color=537288&duration=3000&pause=500&center=true&width=410&height=50&lines=Building+on+the+foundations"><br>
-      <b>
-        ~ Jorge Luis Mamani Huarsaya ~
-      </b>
-    </samp>
-  </p>
-</div>
+---
+<div align="center"><samp>
+Hello There<br>I'm Jorghee, a Student, sometimes recursion is like creating a black hole.<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Aubrey&size=50&color=537288&duration=3000&pause=500&width=500&height=70&lines=Building+on+the+foundations"><br>
+<b>~ Jorge Luis Mamani Huarsaya ~</b>
+</samp></div>
 
-<br>
+---
 
-<p>
-  <samp>I take care that my code is readable</samp>
-</p>
+<img alt="GIF" src="https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="22px"> <samp>**About me**</samp><br>
+- <samp>:zap: I prefer to work behind the scenes, far from graphical interfaces</samp>
+- <samp>:hammer_and_pick: I take care that my code is readable</samp>
 
-```java
-public String build() {
-  StringBuffer phrase  = new StringBuffer();
-  List<String> words = ImmutableList.of("1", "Clean", "24", "7", "code", "14", " ");
+<img alt="GIF" src="https://camo.githubusercontent.com/cca9227b55fbc8ea9708587cb218de00f319c2118cf6cc15a14bcf2b65053e05/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" width="22px"> <samp>**I'm currently learning**</samp><br><br>
+[![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/cpp)
 
-  words.stream()
-       .filter(this::isValidString)
-       .forEach(phrase::append);
+<img alt="GIF" src="https://camo.githubusercontent.com/80bf69eac4a2a8976c7adff9625bdaa6dcf86b3fce190586ad1bd719fa2403d0/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" width="22px"> <samp>**Used Tools**</samp><br><br>
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![NeoVim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
+[![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
+[![Arch Linux](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
+[![Gradle](https://skillicons.dev/icons?i=gradle)](https://docs.gradle.org/current/userguide/userguide.html)
 
-  return phrase.toString();
-}
-```
-<p>
-  <samp>
-    What elegance! Readable code, a pleasure for the mind.<br>Functional programming>>
-  </samp>
-</p>
-
-<br>
-
-<div align="left">
-  <p>
-    <samp><b>
-      <img alt="GIF" src="gif/powerup.gif" width="22px"> I'm currently learning <br>
-    </b></samp>
-    <br>
-    <a href="https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html" target="_blank">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40">
-    </a>
-    <a href="https://spring.io/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40">
-    </a>
-    <a href="https://en.cppreference.com/w/c" target="_blank">
-      <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40">
-    </a>
-    <a href="https://www.python.org/doc/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40">
-    </a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40">
-    </a>
-  </p>
-  <p>
-    <samp><b>
-      <img alt="GIF" src="gif/Rocket.gif" width="22px"> Used Tools <br>
-    </b></samp>
-    <br>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40">
-    </a>
-    <a href="https://github.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40">
-    </a>
-    <a href="https://neovim.io/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim" width="40" height="40">
-    </a>
-    <a href="https://www.latex-project.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40">
-    </a>
-    <a href="https://archlinux.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" width="40" height="40">
-    </a>
-    <a href="https://docs.gradle.org/current/userguide/userguide.html" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="40" height="40">
-    </a>
-  </p>
-</div>
+<img alt="GIF" src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="22px"> <samp>**My songs**</samp><br><br>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4vYOy1kpANHzTYyrAvCSJS?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
