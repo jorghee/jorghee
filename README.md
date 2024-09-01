@@ -24,5 +24,5 @@ Hello There<br>I'm Jorghee, a Student, sometimes recursion is like creating a bl
 [![Arch Linux](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://docs.gradle.org/current/userguide/userguide.html)
 
-<img alt="GIF" src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="22px"> <samp>**My songs**</samp><br><br>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4vYOy1kpANHzTYyrAvCSJS?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<img alt="GIF" src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="22px"> <samp>**Songs**</samp><br><br>
+[![Current Spotify Song](https://jorghee.pythonanywhere.com?theme=dark)](https://jorghee.pythonanywhere.com/link)
