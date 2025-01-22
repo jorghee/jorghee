@@ -24,6 +24,6 @@ I take care that my code is readable
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://docs.gradle.org/current/userguide/userguide.html)
 
 <samp>**Songs**</samp><br>
-[![Current Spotify Song](https://jorghee.pythonanywhere.com?theme=dark)](https://jorghee.pythonanywhere.com/link)
+[![Current Spotify Song](https://jorghee.pythonanywhere.com?theme=dark)](https://open.spotify.com/user/31uk7s5ktvpz4uakddkfkgxf7uvq?si=64191f853ed54973)
 
 ---
